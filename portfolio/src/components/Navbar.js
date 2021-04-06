@@ -19,15 +19,15 @@ function Navbar() {
                         <li className="nav-item">
                             <a className="nav-link" href="#">About me</a>
                         </li>
-                        <li className="nav-item">
+                        {/* <li className="nav-item">
                             <a className="nav-link" href="#">services</a>
-                        </li>
+                        </li> */}
                         <li className="nav-item">
                             <a className="nav-link" href="#">experience</a>
                         </li>
-                        <li className="nav-item">
+                        {/* <li className="nav-item">
                             <a className="nav-link" href="#">How I work</a>
-                        </li>
+                        </li> */}
                         <li className="nav-item">
                             <a className="nav-link" href="#">Portfolio</a>
                         </li>
