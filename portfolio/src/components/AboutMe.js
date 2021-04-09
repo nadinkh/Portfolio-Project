@@ -1,12 +1,15 @@
 import React from 'react'
 import profileImage from '../profileImage.jpg'
+import image2 from '../image2.png.jpeg'
+import image1 from '../image1.png.jpeg'
+
 const AboutMe = () => {
     return (
-        <div className='container py-5'>
+        <div id='about me' className='container py-5'>
             <div className='row'>
                 <div className='col-lg-6 col-xm-12'>
                     <div className='photo-wrap mb-5'>
-                        <img className='profile-img' src={profileImage} alt='profile image...' />
+                        <img className='profile-img' src={image1} alt='profile image...' />
                     </div>
                 </div>
                 <div className='col-lg-6 col-xm-12'>

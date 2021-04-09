@@ -37,7 +37,7 @@ const Portfolio = () => {
         const content = (
 
             <>
-                <img className='portfolio-image-popupbox' style={{ height: 400 }} src={wineApp} alt='wine app clone project...' />
+                <img className='portfolio-image-popupbox' style={{ height: 300 }} src={wineApp} alt='wine app clone project...' />
                 <p>Description</p>
                 <b>Github:</b><a className='hyper-link' onClick={() => window.open("https://github.com/nadinkh/Wine-app-Fronend/tree/main")}>https://github.com/nadinkh/Wine-app-Fronend/tree/main</a>
             </>
@@ -55,9 +55,9 @@ const Portfolio = () => {
     }
 
     return (
-        <div className='portfolio-wrapper'>
+        <div id='Recent Projects' className='portfolio-wrapper'>
             <div className='container'>
-                <h1 className='text-uppercase text-center py-5'>portfolio</h1>
+                <h1 className='text-uppercase text-center py-5'>recent projects</h1>
                 <div className='image-box-wrapper row justify-content-center'>
                     <div className='portfolio-image-box' onClick={openPopupboxAdoption}>
                         <img style={{ height: 135.49 }} className='portfolio-image' src={petAdoptionApp} alt='clone project ..' />

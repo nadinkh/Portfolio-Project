@@ -7,6 +7,9 @@ import Particles from "react-particles-js"
 import AboutMe from './components/AboutMe'
 import Experience from './components/Experience'
 import Portfolio from './components/Portfolio'
+import Contacts from "./components/Contacts";
+import TechSkills from "./components/TechSkills";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -40,8 +43,11 @@ function App() {
         <Navbar />
         <Header />
         <AboutMe />
+        <TechSkills />
         <Experience />
         <Portfolio />
+        <Contacts />
+        <Footer />
       </div>
     </>
   );
