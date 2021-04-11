@@ -33,7 +33,7 @@ function Navbar() {
                             <Link  className="nav-link" href="#">How I work</Link >
                         </li> */}
                         <li className="nav-item">
-                            <Link smooth={true} to="Recent Projects" offset={-110} className="nav-link" href="#">Recent Projects</Link >
+                            <Link smooth={true} to="Recent Projects" offset={-110} className="nav-link" href="#">Projects</Link >
                         </li>
                         <li className="nav-item">
                             <Link smooth={true} to="contact me" offset={-110} className="nav-link" href="#">Contact Me</Link >

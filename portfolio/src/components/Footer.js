@@ -30,7 +30,7 @@ function Footer() {
                             <div className='col'>
                                 <Link smooth={true} to="experience" className='footer-nav'>Experience</Link>
                                 <br />
-                                <Link smooth={true} to="Recent Projects" className='footer-nav'>Recent Projects</Link>
+                                <Link smooth={true} to="Recent Projects" className='footer-nav'>Projects</Link>
                                 <br />
                                 <Link smooth={true} to="contact me" className='footer-nav'>Contact Me</Link>
                             </div>
