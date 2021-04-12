@@ -14,7 +14,7 @@ const AboutMe = () => {
                 </div>
                 <div className='col-lg-6 col-xm-12'>
                     <h1 className='about-heading'>about me</h1>
-                    <p>Full Stack Developer recently graduated from ITC coding Bootcamp. Proficient in adapting to new interfaces
+                    <p style={{ fontWeight: 'bold' }}>Full Stack Developer recently graduated from ITC coding Bootcamp. Proficient in adapting to new interfaces
                     and software’s independently. Hard-working, highly motivated team player with strong time management and
                     multitasking skills. Seeking to take the next step in my career. A Full Stack Developer & Materials Engineer
                     seeking my way to interesting, challenging, and hard work endeavors.

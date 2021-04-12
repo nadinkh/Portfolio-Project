@@ -19,7 +19,7 @@ function TechSkills() {
                             <h3>Front End Technologies</h3>
                             <h4>HTML</h4>
                             <h4>CSS/SCSS</h4>
-                            <h4>BOOSTRAP/MATERIAL-UI</h4>
+                            <h4>Boostrap/Material-UI</h4>
                             <h4>javaScript</h4>
                             <h4>React</h4>
                             <h4>React Native</h4>

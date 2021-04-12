@@ -129,7 +129,7 @@ z-index: 1;
 
 .profile-img{
   width:16rem;
-  height: 14rem;
+  height: 16rem;
   border-radius:50%;
   padding: .3rem;
   border: 1px solid var(--primary-orange);
@@ -138,6 +138,7 @@ z-index: 1;
   color: var(--primary-orange);
   text-transform: uppercase;
 }
+
 
 @media (max-width:468px) {
  .profile-img{
@@ -405,7 +406,7 @@ left:50%;
 transform: translate(-50%,-50%);
 }
 .techskills .box{
-  height: 24rem;
+  height: 25rem;
   border-bottom: 6px solid var(--primary-orange);
   padding:0.625rem;
   margin-bottom: 1.875rem;
